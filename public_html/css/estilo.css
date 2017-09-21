@@ -1,0 +1,11 @@
+.titulos {
+    color: blue;
+    text-align: center;
+}
+
+.inputArredondado {
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    color: white;
+}
