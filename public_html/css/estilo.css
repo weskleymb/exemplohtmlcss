@@ -9,3 +9,44 @@
     background-color: red;
     color: white;
 }
+
+div {
+    border: 1px dashed;
+}
+
+#container {
+    background-color: lightcoral;
+    width: 90%;
+    height: 900px;
+}
+
+#cabecalho {
+    background-color: lightblue;
+    width: 100%;
+    height: 15%;
+}
+
+#conteudo {
+    width: 100%;
+    height: 60%;
+}
+
+#menu_lateral {
+    background-color: lightseagreen;
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+
+#conteudo_lateral {
+    background-color: lightslategrey;
+    width: 65%;
+    height: 100%;
+    float: right;
+}
+
+#rodape {
+    background-color: lightyellow;
+    width: 100%;
+    height: 15%;
+}
